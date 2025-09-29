@@ -1,7 +1,12 @@
 team: Tigers
 
+<<<<<<< HEAD
 manager: Brenda
 coach: Kenneth
+=======
+manager: Kenneth
+coach: Ruth
+>>>>>>> d2c87af (Edit Tigers coach)
 members:
 - Linda
 - William
